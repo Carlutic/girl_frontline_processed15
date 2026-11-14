@@ -1,0 +1,37 @@
+{
+  "defaultPreset": "lobby",
+  "c_AsteriaSSR01_slg_body_d.png": {
+    "normal": "maps/c_AsteriaSSR01_slg_body_d_n.png"
+  },
+  "c_AsteriaSSR01_slg_cloth1_d.png": {
+    "normal": "maps/c_AsteriaSSR01_slg_cloth1_d_n.png"
+  },
+  "c_AsteriaSSR01_slg_cloth2_da.png": {
+    "normal": "maps/c_AsteriaSSR01_slg_cloth2_da_n.png"
+  },
+  "c_AsteriaSSR01_slg_cloth3_d.png": {
+    "normal": "maps/c_AsteriaSSR01_slg_cloth3_d_n.png"
+  },
+  "c_AsteriaSSR01_slg_cloth5_da.png": {
+    "normal": "maps/c_AsteriaSSR01_slg_cloth5_da_n.png"
+  },
+  "c_AsteriaSSR01_slg_cloth4_d.png": {
+    "normal": "maps/c_AsteriaSSR01_slg_cloth4_d_n.png"
+  },
+  "c_AsteriaSSR01_slg_hair_d.png": {
+    "normal": "maps/c_AsteriaSSR01_slg_hair_d_n.png"
+  },
+  "c_AsteriaSSR01_slg_Bracket_d.png": {
+    "normal": "maps/c_AsteriaSSR01_slg_Bracket_d_n.png"
+  },
+  "c_AsteriaSSR01_slg_Gun_d.png": {
+    "normal": "maps/c_AsteriaSSR01_slg_Gun_d_n.png"
+  },
+  "stockingMode": "alpha",
+  "stockingSkinTexture": "socks_skin_d.png",
+  "materialOverrides": {
+    "Cth2-Socks": {
+      "diffuse": "socks_d.png"
+    }
+  }
+}

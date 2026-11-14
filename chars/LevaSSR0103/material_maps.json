@@ -1,0 +1,46 @@
+{
+  "defaultPreset": "lobby",
+  "body_d.png": {
+    "normal": "maps/body_d_n.png"
+  },
+  "body_zhijia01_da.png": {
+    "normal": "maps/body_zhijia01_da_n.png"
+  },
+  "c_LevaSSR0103_slg_cloth1_d.png": {
+    "normal": "maps/c_LevaSSR0103_slg_cloth1_d_n.png"
+  },
+  "c_LevaSSR0103_slg_cloth2_d.png": {
+    "normal": "maps/c_LevaSSR0103_slg_cloth2_d_n.png"
+  },
+  "c_LevaSSR0103_slg_cloth4_d.png": {
+    "normal": "maps/c_LevaSSR0103_slg_cloth4_d_n.png"
+  },
+  "c_LevaSSR0103_slg_cloth5_da.png": {
+    "normal": "maps/c_LevaSSR0103_slg_cloth5_da_n.png"
+  },
+  "c_LevaSSR0103_slg_cloth6_da.png": {
+    "normal": "maps/c_LevaSSR0103_slg_cloth6_da_n.png"
+  },
+  "c_LevaSSR0103_slg_body1_da.png": {
+    "normal": "maps/c_LevaSSR0103_slg_body1_da_n.png"
+  },
+  "c_LevaSSR0103_slg_cloth8_da.png": {
+    "normal": "maps/c_LevaSSR0103_slg_cloth8_da_n.png"
+  },
+  "c_LevaSSR0103_slg_cloth3_d.png": {
+    "normal": "maps/c_LevaSSR0103_slg_cloth3_d_n.png"
+  },
+  "c_Leva_slg_hair_d.png": {
+    "normal": "maps/c_Leva_slg_hair_d_n.png"
+  },
+  "c_LevaSSR0103_slg_Pearl_da.png": {
+    "normal": "maps/c_LevaSSR0103_slg_Pearl_da_n.png"
+  },
+  "stockingMode": "alpha",
+  "stockingSkinTexture": "socks_skin_d.png",
+  "materialOverrides": {
+    "Socks": {
+      "diffuse": "socks_d.png"
+    }
+  }
+}

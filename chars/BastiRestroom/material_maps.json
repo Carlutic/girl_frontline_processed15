@@ -1,0 +1,22 @@
+{
+  "defaultPreset": "lobby",
+  "c_BastiSSR01_slg_cloth3_d.png": {
+    "normal": "maps/c_BastiSSR01_slg_cloth3_d_n.png"
+  },
+  "B_body_d.png": {
+    "normal": "maps/B_body_d_n.png"
+  },
+  "c_grozadorm_body_da.png": {
+    "normal": "maps/c_grozadorm_body_da_n.png"
+  },
+  "c_BastiSSR01_slg_hair_d.png": {
+    "normal": "maps/c_BastiSSR01_slg_hair_d_n.png"
+  },
+  "stockingMode": "alpha",
+  "stockingSkinTexture": "socks_skin_d.png",
+  "materialOverrides": {
+    "Socks": {
+      "diffuse": "socks_d.png"
+    }
+  }
+}

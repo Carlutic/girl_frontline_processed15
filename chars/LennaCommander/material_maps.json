@@ -1,0 +1,36 @@
+{
+  "defaultPreset": "lobby",
+  "c_Lanna_face_d.png": {
+    "normal": "maps/c_Lanna_face_d_n.png"
+  },
+  "c_Lenna_eye_d.png": {
+    "normal": "maps/c_Lenna_eye_d_n.png"
+  },
+  "c_Lenna_eyeblend_d.png": {
+    "normal": "maps/c_Lenna_eyeblend_d_n.png"
+  },
+  "c_GrozaSR0105_slg_body_d.png": {
+    "normal": "maps/c_GrozaSR0105_slg_body_d_n.png"
+  },
+  "c_LennaSSR0105_slg_cloth1_d.png": {
+    "normal": "maps/c_LennaSSR0105_slg_cloth1_d_n.png"
+  },
+  "c_LennaSSR0105_slg_cloth2_d.png": {
+    "normal": "maps/c_LennaSSR0105_slg_cloth2_d_n.png"
+  },
+  "c_LennaSSR0105_slg_plush_d.png": {
+    "normal": "maps/c_LennaSSR0105_slg_plush_d_n.png"
+  },
+  "c_LennaSSR0105_slg_glass_d.png": {
+    "normal": "maps/c_LennaSSR0105_slg_glass_d_n.png"
+  },
+  "c_LennaSSR0105_slg_weapon_d.png": {
+    "normal": "maps/c_LennaSSR0105_slg_weapon_d_n.png"
+  },
+  "c_Lenna_hair_d.png": {
+    "normal": "maps/c_Lenna_hair_d_n.png"
+  },
+  "extra.png": {
+    "normal": "maps/extra_n.png"
+  }
+}

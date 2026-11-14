@@ -1,0 +1,19 @@
+{
+  "defaultPreset": "lobby",
+  "c_LevaSSR01_slg_cloth2_da.png": {
+    "normal": "maps/c_LevaSSR01_slg_cloth2_da_n.png"
+  },
+  "c_LevaSSR01_slg_cloth1_d.png": {
+    "normal": "maps/c_LevaSSR01_slg_cloth1_d_n.png"
+  },
+  "c_LevaSSR01_slg_glock_d.png": {
+    "normal": "maps/c_LevaSSR01_slg_glock_d_n.png"
+  },
+  "stockingMode": "alpha",
+  "stockingSkinTexture": "socks_skin_d.png",
+  "materialOverrides": {
+    "Cloth1-Socks": {
+      "diffuse": "socks_d.png"
+    }
+  }
+}

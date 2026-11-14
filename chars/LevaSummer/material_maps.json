@@ -1,0 +1,27 @@
+{
+  "defaultPreset": "lobby",
+  "c_LevaSSR0102_slg_body_d.png": {
+    "normal": "maps/c_LevaSSR0102_slg_body_d_n.png"
+  },
+  "c_LevaSSR0102_slg_P1_cloth_d.png": {
+    "normal": "maps/c_LevaSSR0102_slg_P1_cloth_d_n.png"
+  },
+  "c_LevaSSR0102_slg_head1_d.png": {
+    "normal": "maps/c_LevaSSR0102_slg_head1_d_n.png"
+  },
+  "c_LevaSSR0102_slg_head2_da.png": {
+    "normal": "maps/c_LevaSSR0102_slg_head2_da_n.png"
+  },
+  "c_LevaSSR01_slg_cloth2_da.png": {
+    "normal": "maps/c_LevaSSR01_slg_cloth2_da_n.png"
+  },
+  "c_LevaSSR0102_slg_cloth1_d.png": {
+    "normal": "maps/c_LevaSSR0102_slg_cloth1_d_n.png"
+  },
+  "c_LevaSSR0102_slg_cloth2_da.png": {
+    "normal": "maps/c_LevaSSR0102_slg_cloth2_da_n.png"
+  },
+  "c_LevaSSR0102_slg_P1_body_d.png": {
+    "normal": "maps/c_LevaSSR0102_slg_P1_body_d_n.png"
+  }
+}

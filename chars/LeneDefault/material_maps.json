@@ -1,0 +1,19 @@
+{
+  "defaultPreset": "lobby",
+  "c_LeneSSR01_slg_cloth1_d.png": {
+    "normal": "maps/c_LeneSSR01_slg_cloth1_d_n.png"
+  },
+  "c_LeneSSR01_slg_clorh2_d.png": {
+    "normal": "maps/c_LeneSSR01_slg_clorh2_d_n.png"
+  },
+  "c_LeneSSR01_slg_EMP_d.png": {
+    "normal": "maps/c_LeneSSR01_slg_EMP_d_n.png"
+  },
+  "stockingMode": "alpha",
+  "stockingSkinTexture": "socks_skin_d.png",
+  "materialOverrides": {
+    "Cloth1-Socks": {
+      "diffuse": "socks_d.png"
+    }
+  }
+}

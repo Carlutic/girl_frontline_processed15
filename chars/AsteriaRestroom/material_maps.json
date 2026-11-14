@@ -1,0 +1,37 @@
+{
+  "defaultPreset": "lobby",
+  "c_Asteria_slg_face_d.png": {
+    "normal": "maps/c_Asteria_slg_face_d_n.png"
+  },
+  "c_Asteria_slg_eye_d.png": {
+    "normal": "maps/c_Asteria_slg_eye_d_n.png"
+  },
+  "c_Asteria_slg_eyeblend.png": {
+    "normal": "maps/c_Asteria_slg_eyeblend_n.png"
+  },
+  "B_body_d.png": {
+    "normal": "maps/B_body_d_n.png"
+  },
+  "c_GrozaDorm_body_da.png": {
+    "normal": "maps/c_GrozaDorm_body_da_n.png"
+  },
+  "c_AsteriaDorm_slg_cloth_d.png": {
+    "normal": "maps/c_AsteriaDorm_slg_cloth_d_n.png"
+  },
+  "c_AsteriaSSR01_slg_cloth1_d.png": {
+    "normal": "maps/c_AsteriaSSR01_slg_cloth1_d_n.png"
+  },
+  "c_AsteriaSSR01_slg_hair_d.png": {
+    "normal": "maps/c_AsteriaSSR01_slg_hair_d_n.png"
+  },
+  "extra.png": {
+    "normal": "maps/extra_n.png"
+  },
+  "stockingMode": "alpha",
+  "stockingSkinTexture": "socks_skin_d.png",
+  "materialOverrides": {
+    "Socks": {
+      "diffuse": "socks_d.png"
+    }
+  }
+}

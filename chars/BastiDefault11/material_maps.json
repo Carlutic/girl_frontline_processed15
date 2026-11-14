@@ -1,0 +1,37 @@
+{
+  "defaultPreset": "lobby",
+  "body_d.png": {
+    "normal": "maps/body_d_n.png"
+  },
+  "c_BastiSSR01_slg_zhijia_d.png": {
+    "normal": "maps/c_BastiSSR01_slg_zhijia_d_n.png"
+  },
+  "c_BastiSSR01_slg_cloth1_d.png": {
+    "normal": "maps/c_BastiSSR01_slg_cloth1_d_n.png"
+  },
+  "c_BastiSSR01_slg_cloth2_da.png": {
+    "normal": "maps/c_BastiSSR01_slg_cloth2_da_n.png"
+  },
+  "c_BastiSSR01_slg_cloth3_d.png": {
+    "normal": "maps/c_BastiSSR01_slg_cloth3_d_n.png"
+  },
+  "c_BastiSSR01_slg_plush_d.png": {
+    "normal": "maps/c_BastiSSR01_slg_plush_d_n.png"
+  },
+  "c_BastiSSR01_slg_weapon_d.png": {
+    "normal": "maps/c_BastiSSR01_slg_weapon_d_n.png"
+  },
+  "c_BastiSSR01_slg_cloth4_trans_rmo.png": {
+    "normal": "maps/c_BastiSSR01_slg_cloth4_trans_rmo_n.png"
+  },
+  "c_BastiSSR01_slg_hair_d.png": {
+    "normal": "maps/c_BastiSSR01_slg_hair_d_n.png"
+  },
+  "stockingMode": "alpha",
+  "stockingSkinTexture": "socks_skin_d.png",
+  "materialOverrides": {
+    "Cloth3-Socks": {
+      "diffuse": "socks_d.png"
+    }
+  }
+}
